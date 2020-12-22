@@ -8,7 +8,7 @@ def port_to_eng(to, fr):
 
     while True:
         try:
-            word = input("\nPlease type a word to translate to portuguese: ")
+            word = input("\nPlease type a word to translate to portugues: ")
             word = int(word)
 
             print("\n *** It's an integer, please type a text. *** \n")
